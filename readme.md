@@ -1,2 +1,2 @@
-PROJECT-ROCK-PAPER-SCISSORS
+Rock Paper Scissors Project
 For The Odin Project
