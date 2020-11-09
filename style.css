@@ -1,0 +1,32 @@
+body {
+    background-color: lightgrey;
+}
+  
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-family: arial;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+  
+p {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    text-align: center;
+    color: blue;
+}
+
+div {
+    padding-bottom: 10px;
+    text-align: center;
+}
